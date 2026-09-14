@@ -1,21 +1,20 @@
-# 📖 Repositório de Estudos
+# MEUS ESTUDOS E ANOTAÇÕES ROOT
 
-🔗 **[Acessar o Repositório](https://github.com/carlosguedes0007-maker/estudos)**
+Repositório pessoal com minhas anotações, passo a passo de comandos e códigos de laboratório. Tudo feito no formato mais direto possível para consulta rápida. Sem enrolação.
 
-## 📌 Sobre
-Este repositório é um hub central para projetos menores, anotações, e laboratórios práticos focados no aprendizado e aprimoramento contínuo em tecnologia.
+🔗 **[Acessar o Repositório](https://github.com/carlosguedes-dev/estudos)**
 
-Ele está organizado em diferentes trilhas de conhecimento para facilitar a busca e o estudo estruturado.
+## 📂 Trilhas
 
-## 📂 Trilhas e Organização
-
-- **🎨 CSS:** Experimentos, estilizações avançadas, layouts responsivos, grid, flexbox e animações.
-- **💀 Hacking Ético:** Conceitos de cibersegurança, testes de vulnerabilidade, laboratórios práticos e estudos focados em segurança da informação.
-- **🌐 HTML:** Estruturação semântica, formulários, acessibilidade e SEO básico.
-- **🧠 Lógica da Programação:** Algoritmos, resolução de problemas, estruturas de dados e fundamentos lógicos de codificação.
-
-## 🎯 Objetivo
-Manter um registro histórico da evolução contínua de aprendizado, testar novos conceitos teóricos e práticos, além de servir como material de consulta futura rápida e confiável.
+- **BANCO DE DADOS**: Prisma ORM, configurações e setups de banco.
+- **CRIACAO DE CLI E FERRAMENTAS**: Criação de CLIs com Node.js, scripts executáveis.
+- **CSS**: Estilizações avançadas, layouts responsivos, etc.
+- **FRONTEND ROOT HTML CSS JS**: Animações via Keyframes, manipulação de DOM e eventos nativos.
+- **HACKING ÉTICO**: Segurança, Wi-Fi (modo monitor, handshakes), exploração e defesas.
+- **HTML**: Estruturação semântica de páginas.
+- **LOGICA DA PROGRAMACAO**: Fundamentos e exercícios diretos em diversas linguagens (C, Java, JavaScript, PHP, Python, etc).
+- **NEXTJS E REACT**: Hooks (useState, useEffect), rotas, Server vs Client Components.
+- **PYTHON AVANCADO**: Cálculos matemáticos de entropia, ambientes virtuais (VENV) e automações.
 
 ## 👨‍💻 Autor
 **Carlos Guedes**
