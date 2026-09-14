@@ -1,0 +1,15 @@
+#INICIAR PACOTE
+npm init -y
+
+#CRIAR ARQUIVO INDEX
+index.js:
+#!/usr/bin/env node
+console.log("meu cli");
+
+#ADICIONAR NO PACKAGE.JSON
+"bin": {
+  "commit-craft": "./index.js"
+}
+
+#INSTALAR LOCAL PRA TESTAR
+npm link

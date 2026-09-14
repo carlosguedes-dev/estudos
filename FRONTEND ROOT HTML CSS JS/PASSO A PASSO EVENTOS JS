@@ -1,0 +1,8 @@
+// PEGAR ELEMENTO
+const btn = document.querySelector('.botao')
+
+// CLICK
+btn.addEventListener('click', (e) => {
+    console.log('clicou no alvo', e.target)
+    btn.classList.toggle('ativo')
+})

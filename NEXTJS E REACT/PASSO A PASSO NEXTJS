@@ -1,0 +1,12 @@
+#INICIAR PROJETO
+npx create-next-app@latest meu-app
+
+#RODAR
+npm run dev
+
+#CRIAR ROTA
+app/dashboard/page.tsx
+
+#CRIAR COMPONENTE DE SERVIDOR E CLIENTE
+"use client" no topo pra hooks
+sem nada = roda no servidor (mais rapido)

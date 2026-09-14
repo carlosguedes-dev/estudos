@@ -1,0 +1,10 @@
+import { useState, useEffect } from 'react'
+
+#STATE BASICO
+const [estado, setEstado] = useState(0)
+
+#EFFECT PRA CARREGAR API
+useEffect(() => {
+  // executa so uma vez qdo abre a pagina
+  fetch('/api/dados').then(...)
+}, [])

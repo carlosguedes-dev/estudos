@@ -1,0 +1,10 @@
+/* KEYFRAMES BASICOS PRO DRAGON BALL SUPER ETC */
+@keyframes pular {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-50px); }
+  100% { transform: translateY(0); }
+}
+
+.personagem {
+  animation: pular 1s infinite;
+}

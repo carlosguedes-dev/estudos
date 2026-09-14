@@ -1,0 +1,11 @@
+#CRIAR AMBIENTE VIRTUAL
+python -m venv venv
+
+#ATIVAR NO WINDOWS
+venv\Scripts\activate
+
+#INSTALAR DEP
+pip install requests
+
+#SALVAR LISTA
+pip freeze > requirements.txt

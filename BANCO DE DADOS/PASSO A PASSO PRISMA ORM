@@ -1,0 +1,12 @@
+#INSTALAR
+npm install @prisma/client
+npm install prisma --save-dev
+
+#INICIAR
+npx prisma init
+
+#ATUALIZAR BANCO
+npx prisma db push
+
+#GERAR CLIENTE
+npx prisma generate
