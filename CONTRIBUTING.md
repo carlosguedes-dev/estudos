@@ -1,16 +1,16 @@
-# Contribuindo com Meus Estudos
+# Contribuindo
 
-Obrigado pelo interesse em interagir e trocar conhecimento com o meu caderno de estudos e laboratório pessoal!
+Obrigado pelo seu interesse em contribuir com este projeto!
 
-## Como Interagir / Sugerir Melhorias
+## Como Contribuir
 
-1. Faça um Fork deste repositório
-2. Crie uma branch para a sua sugestão ou anotação (`git checkout -b estudo/nova-anotacao`)
-3. Adicione seus resumos ou melhorias nos experimentos
-4. Faça o commit de suas alterações (`git commit -m 'adiciona resumo de estudo sobre X'`)
-5. Faça o push para a branch (`git push origin estudo/nova-anotacao`)
-6. Abra um Pull Request para trocarmos ideias!
+1. Faça um Fork do repositório
+2. Crie uma branch para a sua feature (`git checkout -b feature/nova-feature`)
+3. Faça suas alterações
+4. Faça o commit de suas alterações (`git commit -m 'Adiciona uma nova feature'`)
+5. Faça o push para a branch (`git push origin feature/nova-feature`)
+6. Abra um Pull Request
 
-## Reportando Problemas e Discutindo Ideias
+## Reportando Bugs e Solicitando Funcionalidades
 
-Se você encontrar algum erro conceitual em minhas anotações, um bug em um experimento prático ou quiser sugerir um novo tópico de estudo, por favor, abra uma *Issue* descrevendo sua ideia ou correção com detalhes. Toda troca de aprendizado é muito bem-vinda!
+Se você encontrar um bug ou tiver uma ideia de nova funcionalidade, por favor, abra uma *Issue* descrevendo-a com o máximo de detalhes possível.

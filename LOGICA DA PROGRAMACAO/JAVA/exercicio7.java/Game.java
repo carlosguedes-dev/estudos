@@ -75,6 +75,7 @@ public class Game extends Canvas implements Runnable,MouseListener{
 		g.setColor(Color.BLACK);
 		g.fillRect(0, 0, 480, 480);
 		
+		//
 		if(dir == right) {
 			g.setColor(Color.red);
 		}else if(dir == left) {
@@ -86,6 +87,7 @@ public class Game extends Canvas implements Runnable,MouseListener{
 		}
 		
 		g.fillRect(x, y, 50, 50);
+		//
 		g.dispose();
 		bs.show();
 		
